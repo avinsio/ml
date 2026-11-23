@@ -1,0 +1,3 @@
+*.ipynb linguist-language=Jupyter\ Notebook
+iframe_figures/*.html linguist-generated=true
+**/iframe_figures/*.html linguist-generated=true
