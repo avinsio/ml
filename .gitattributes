@@ -1,3 +1,2 @@
-*.ipynb linguist-language=Jupyter\ Notebook
-iframe_figures/*.html linguist-generated=true
+# Exclude generated HTML files from language statistics
 **/iframe_figures/*.html linguist-generated=true
