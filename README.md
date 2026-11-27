@@ -9,11 +9,11 @@ I use it to organize what I'm learning, explore concepts, implement algorithms f
 ### Linear Algebra
 
 - [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLShth7hrtLHO2U1XkrI6ZgMyuPHDxRcob)
-- [Essence of Linear Algebra — 3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
+- [Essence of Linear Algebra ](https://www.3blue1brown.com/topics/linear-algebra)
 
 ### Calculus
 
-- [Differential Calculus — Khan Academy](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
+- [Differential Calculus](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
 - [Essence of Calculus ](https://www.3blue1brown.com/topics/calculus)
 
 ### Multivariable Calculus
